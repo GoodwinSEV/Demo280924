@@ -14,6 +14,84 @@
 		CE67644C2CA79DF9004AA313 /* Demo_8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE67644B2CA79DF9004AA313 /* Demo_8Tests.swift */; };
 		CE6764562CA79DF9004AA313 /* Demo_8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764552CA79DF9004AA313 /* Demo_8UITests.swift */; };
 		CE6764582CA79DF9004AA313 /* Demo_8UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764572CA79DF9004AA313 /* Demo_8UITestsLaunchTests.swift */; };
+		CE6764672CA79E55004AA313 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764662CA79E55004AA313 /* SignUp.swift */; };
+		CE6764682CA79E55004AA313 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764662CA79E55004AA313 /* SignUp.swift */; };
+		CE6764692CA79E55004AA313 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764662CA79E55004AA313 /* SignUp.swift */; };
+		CE67646B2CA79E81004AA313 /* LogIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE67646A2CA79E81004AA313 /* LogIn.swift */; };
+		CE67646C2CA79E81004AA313 /* LogIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE67646A2CA79E81004AA313 /* LogIn.swift */; };
+		CE67646D2CA79E81004AA313 /* LogIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE67646A2CA79E81004AA313 /* LogIn.swift */; };
+		CE67646F2CA79EA1004AA313 /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE67646E2CA79EA1004AA313 /* ForgotPassword.swift */; };
+		CE6764702CA79EA1004AA313 /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE67646E2CA79EA1004AA313 /* ForgotPassword.swift */; };
+		CE6764712CA79EA1004AA313 /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE67646E2CA79EA1004AA313 /* ForgotPassword.swift */; };
+		CE6764732CA79EB6004AA313 /* OTPVerification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764722CA79EB6004AA313 /* OTPVerification.swift */; };
+		CE6764742CA79EB6004AA313 /* OTPVerification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764722CA79EB6004AA313 /* OTPVerification.swift */; };
+		CE6764752CA79EB6004AA313 /* OTPVerification.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764722CA79EB6004AA313 /* OTPVerification.swift */; };
+		CE6764772CA79ECC004AA313 /* NewPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764762CA79ECC004AA313 /* NewPassword.swift */; };
+		CE6764782CA79ECC004AA313 /* NewPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764762CA79ECC004AA313 /* NewPassword.swift */; };
+		CE6764792CA79ECC004AA313 /* NewPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764762CA79ECC004AA313 /* NewPassword.swift */; };
+		CE6764882CA79EFB004AA313 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647B2CA79EFB004AA313 /* Roboto-BlackItalic.ttf */; };
+		CE6764892CA79EFB004AA313 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647B2CA79EFB004AA313 /* Roboto-BlackItalic.ttf */; };
+		CE67648A2CA79EFB004AA313 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647B2CA79EFB004AA313 /* Roboto-BlackItalic.ttf */; };
+		CE67648B2CA79EFB004AA313 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647C2CA79EFB004AA313 /* Roboto-Medium.ttf */; };
+		CE67648C2CA79EFB004AA313 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647C2CA79EFB004AA313 /* Roboto-Medium.ttf */; };
+		CE67648D2CA79EFB004AA313 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647C2CA79EFB004AA313 /* Roboto-Medium.ttf */; };
+		CE67648E2CA79EFB004AA313 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647D2CA79EFB004AA313 /* Roboto-ThinItalic.ttf */; };
+		CE67648F2CA79EFB004AA313 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647D2CA79EFB004AA313 /* Roboto-ThinItalic.ttf */; };
+		CE6764902CA79EFB004AA313 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647D2CA79EFB004AA313 /* Roboto-ThinItalic.ttf */; };
+		CE6764912CA79EFB004AA313 /* Apache License.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE67647E2CA79EFB004AA313 /* Apache License.txt */; };
+		CE6764922CA79EFB004AA313 /* Apache License.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE67647E2CA79EFB004AA313 /* Apache License.txt */; };
+		CE6764932CA79EFB004AA313 /* Apache License.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE67647E2CA79EFB004AA313 /* Apache License.txt */; };
+		CE6764942CA79EFB004AA313 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647F2CA79EFB004AA313 /* Roboto-Bold.ttf */; };
+		CE6764952CA79EFB004AA313 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647F2CA79EFB004AA313 /* Roboto-Bold.ttf */; };
+		CE6764962CA79EFB004AA313 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE67647F2CA79EFB004AA313 /* Roboto-Bold.ttf */; };
+		CE6764972CA79EFB004AA313 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764802CA79EFB004AA313 /* Roboto-Italic.ttf */; };
+		CE6764982CA79EFB004AA313 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764802CA79EFB004AA313 /* Roboto-Italic.ttf */; };
+		CE6764992CA79EFB004AA313 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764802CA79EFB004AA313 /* Roboto-Italic.ttf */; };
+		CE67649A2CA79EFB004AA313 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764812CA79EFB004AA313 /* Roboto-Black.ttf */; };
+		CE67649B2CA79EFB004AA313 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764812CA79EFB004AA313 /* Roboto-Black.ttf */; };
+		CE67649C2CA79EFB004AA313 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764812CA79EFB004AA313 /* Roboto-Black.ttf */; };
+		CE67649D2CA79EFB004AA313 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764822CA79EFB004AA313 /* Roboto-LightItalic.ttf */; };
+		CE67649E2CA79EFB004AA313 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764822CA79EFB004AA313 /* Roboto-LightItalic.ttf */; };
+		CE67649F2CA79EFB004AA313 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764822CA79EFB004AA313 /* Roboto-LightItalic.ttf */; };
+		CE6764A02CA79EFB004AA313 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764832CA79EFB004AA313 /* Roboto-Thin.ttf */; };
+		CE6764A12CA79EFB004AA313 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764832CA79EFB004AA313 /* Roboto-Thin.ttf */; };
+		CE6764A22CA79EFB004AA313 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764832CA79EFB004AA313 /* Roboto-Thin.ttf */; };
+		CE6764A32CA79EFB004AA313 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764842CA79EFB004AA313 /* Roboto-Regular.ttf */; };
+		CE6764A42CA79EFB004AA313 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764842CA79EFB004AA313 /* Roboto-Regular.ttf */; };
+		CE6764A52CA79EFB004AA313 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764842CA79EFB004AA313 /* Roboto-Regular.ttf */; };
+		CE6764A62CA79EFB004AA313 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764852CA79EFB004AA313 /* Roboto-BoldItalic.ttf */; };
+		CE6764A72CA79EFB004AA313 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764852CA79EFB004AA313 /* Roboto-BoldItalic.ttf */; };
+		CE6764A82CA79EFB004AA313 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764852CA79EFB004AA313 /* Roboto-BoldItalic.ttf */; };
+		CE6764A92CA79EFB004AA313 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764862CA79EFB004AA313 /* Roboto-Light.ttf */; };
+		CE6764AA2CA79EFB004AA313 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764862CA79EFB004AA313 /* Roboto-Light.ttf */; };
+		CE6764AB2CA79EFB004AA313 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764862CA79EFB004AA313 /* Roboto-Light.ttf */; };
+		CE6764AC2CA79EFB004AA313 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764872CA79EFB004AA313 /* Roboto-MediumItalic.ttf */; };
+		CE6764AD2CA79EFB004AA313 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764872CA79EFB004AA313 /* Roboto-MediumItalic.ttf */; };
+		CE6764AE2CA79EFB004AA313 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE6764872CA79EFB004AA313 /* Roboto-MediumItalic.ttf */; };
+		CE6764B22CA7A026004AA313 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764B12CA7A026004AA313 /* CheckBox.swift */; };
+		CE6764B32CA7A026004AA313 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764B12CA7A026004AA313 /* CheckBox.swift */; };
+		CE6764B42CA7A026004AA313 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764B12CA7A026004AA313 /* CheckBox.swift */; };
+		CE6764B72CA7A047004AA313 /* CustomPasswordField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764B62CA7A047004AA313 /* CustomPasswordField.swift */; };
+		CE6764B82CA7A047004AA313 /* CustomPasswordField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764B62CA7A047004AA313 /* CustomPasswordField.swift */; };
+		CE6764B92CA7A047004AA313 /* CustomPasswordField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764B62CA7A047004AA313 /* CustomPasswordField.swift */; };
+		CE6764BB2CA7A055004AA313 /* CustomField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764BA2CA7A055004AA313 /* CustomField.swift */; };
+		CE6764BC2CA7A055004AA313 /* CustomField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764BA2CA7A055004AA313 /* CustomField.swift */; };
+		CE6764BD2CA7A055004AA313 /* CustomField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764BA2CA7A055004AA313 /* CustomField.swift */; };
+		CE6764C02CA7A19C004AA313 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764BF2CA7A19C004AA313 /* UserViewModel.swift */; };
+		CE6764C12CA7A19C004AA313 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764BF2CA7A19C004AA313 /* UserViewModel.swift */; };
+		CE6764C22CA7A19C004AA313 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764BF2CA7A19C004AA313 /* UserViewModel.swift */; };
+		CE6764C52CA7A212004AA313 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764C42CA7A212004AA313 /* UserModel.swift */; };
+		CE6764C62CA7A212004AA313 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764C42CA7A212004AA313 /* UserModel.swift */; };
+		CE6764C72CA7A212004AA313 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764C42CA7A212004AA313 /* UserModel.swift */; };
+		CE6764C92CA7A23E004AA313 /* Repositories.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764C82CA7A23E004AA313 /* Repositories.swift */; };
+		CE6764CA2CA7A23E004AA313 /* Repositories.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764C82CA7A23E004AA313 /* Repositories.swift */; };
+		CE6764CB2CA7A23E004AA313 /* Repositories.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6764C82CA7A23E004AA313 /* Repositories.swift */; };
+		CE6764CE2CA7A2C8004AA313 /* Auth in Frameworks */ = {isa = PBXBuildFile; productRef = CE6764CD2CA7A2C8004AA313 /* Auth */; };
+		CE6764D02CA7A2C8004AA313 /* Functions in Frameworks */ = {isa = PBXBuildFile; productRef = CE6764CF2CA7A2C8004AA313 /* Functions */; };
+		CE6764D22CA7A2C8004AA313 /* PostgREST in Frameworks */ = {isa = PBXBuildFile; productRef = CE6764D12CA7A2C8004AA313 /* PostgREST */; };
+		CE6764D42CA7A2C8004AA313 /* Realtime in Frameworks */ = {isa = PBXBuildFile; productRef = CE6764D32CA7A2C8004AA313 /* Realtime */; };
+		CE6764D62CA7A2C8004AA313 /* Storage in Frameworks */ = {isa = PBXBuildFile; productRef = CE6764D52CA7A2C8004AA313 /* Storage */; };
+		CE6764D82CA7A2C8004AA313 /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = CE6764D72CA7A2C8004AA313 /* Supabase */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +122,31 @@
 		CE6764512CA79DF9004AA313 /* Demo_8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo_8UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE6764552CA79DF9004AA313 /* Demo_8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_8UITests.swift; sourceTree = "<group>"; };
 		CE6764572CA79DF9004AA313 /* Demo_8UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_8UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CE6764662CA79E55004AA313 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
+		CE67646A2CA79E81004AA313 /* LogIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogIn.swift; sourceTree = "<group>"; };
+		CE67646E2CA79EA1004AA313 /* ForgotPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPassword.swift; sourceTree = "<group>"; };
+		CE6764722CA79EB6004AA313 /* OTPVerification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTPVerification.swift; sourceTree = "<group>"; };
+		CE6764762CA79ECC004AA313 /* NewPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPassword.swift; sourceTree = "<group>"; };
+		CE67647B2CA79EFB004AA313 /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-BlackItalic.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		CE67647C2CA79EFB004AA313 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Medium.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		CE67647D2CA79EFB004AA313 /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-ThinItalic.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
+		CE67647E2CA79EFB004AA313 /* Apache License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Apache License.txt"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Apache License.txt"; sourceTree = "<group>"; };
+		CE67647F2CA79EFB004AA313 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Bold.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		CE6764802CA79EFB004AA313 /* Roboto-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Italic.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		CE6764812CA79EFB004AA313 /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Black.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-Black.ttf"; sourceTree = "<group>"; };
+		CE6764822CA79EFB004AA313 /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-LightItalic.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
+		CE6764832CA79EFB004AA313 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Thin.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		CE6764842CA79EFB004AA313 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Regular.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		CE6764852CA79EFB004AA313 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-BoldItalic.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
+		CE6764862CA79EFB004AA313 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Light.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-Light.ttf"; sourceTree = "<group>"; };
+		CE6764872CA79EFB004AA313 /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-MediumItalic.ttf"; path = "../../../../../../Desktop/_5000 курсы 2/шрифт/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
+		CE6764AF2CA79F2B004AA313 /* Demo-8-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Demo-8-Info.plist"; sourceTree = SOURCE_ROOT; };
+		CE6764B12CA7A026004AA313 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
+		CE6764B62CA7A047004AA313 /* CustomPasswordField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPasswordField.swift; sourceTree = "<group>"; };
+		CE6764BA2CA7A055004AA313 /* CustomField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomField.swift; sourceTree = "<group>"; };
+		CE6764BF2CA7A19C004AA313 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
+		CE6764C42CA7A212004AA313 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		CE6764C82CA7A23E004AA313 /* Repositories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repositories.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +154,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE6764D22CA7A2C8004AA313 /* PostgREST in Frameworks */,
+				CE6764D02CA7A2C8004AA313 /* Functions in Frameworks */,
+				CE6764D82CA7A2C8004AA313 /* Supabase in Frameworks */,
+				CE6764CE2CA7A2C8004AA313 /* Auth in Frameworks */,
+				CE6764D62CA7A2C8004AA313 /* Storage in Frameworks */,
+				CE6764D42CA7A2C8004AA313 /* Realtime in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +203,11 @@
 		CE6764392CA79DF7004AA313 /* Demo_8 */ = {
 			isa = PBXGroup;
 			children = (
+				CE6764C32CA7A1FD004AA313 /* Model */,
+				CE6764BE2CA7A174004AA313 /* ViewModel */,
+				CE6764AF2CA79F2B004AA313 /* Demo-8-Info.plist */,
+				CE6764652CA79E3E004AA313 /* View */,
+				CE6764642CA79E2C004AA313 /* Commom */,
 				CE67643A2CA79DF7004AA313 /* Demo_8App.swift */,
 				CE67643C2CA79DF7004AA313 /* ContentView.swift */,
 				CE67643E2CA79DF9004AA313 /* Assets.xcassets */,
@@ -127,6 +241,74 @@
 			path = Demo_8UITests;
 			sourceTree = "<group>";
 		};
+		CE6764642CA79E2C004AA313 /* Commom */ = {
+			isa = PBXGroup;
+			children = (
+				CE6764B02CA7A011004AA313 /* Custon */,
+				CE67647A2CA79EDD004AA313 /* Font */,
+			);
+			path = Commom;
+			sourceTree = "<group>";
+		};
+		CE6764652CA79E3E004AA313 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CE6764662CA79E55004AA313 /* SignUp.swift */,
+				CE67646A2CA79E81004AA313 /* LogIn.swift */,
+				CE67646E2CA79EA1004AA313 /* ForgotPassword.swift */,
+				CE6764722CA79EB6004AA313 /* OTPVerification.swift */,
+				CE6764762CA79ECC004AA313 /* NewPassword.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		CE67647A2CA79EDD004AA313 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				CE67647E2CA79EFB004AA313 /* Apache License.txt */,
+				CE6764812CA79EFB004AA313 /* Roboto-Black.ttf */,
+				CE67647B2CA79EFB004AA313 /* Roboto-BlackItalic.ttf */,
+				CE67647F2CA79EFB004AA313 /* Roboto-Bold.ttf */,
+				CE6764852CA79EFB004AA313 /* Roboto-BoldItalic.ttf */,
+				CE6764802CA79EFB004AA313 /* Roboto-Italic.ttf */,
+				CE6764862CA79EFB004AA313 /* Roboto-Light.ttf */,
+				CE6764822CA79EFB004AA313 /* Roboto-LightItalic.ttf */,
+				CE67647C2CA79EFB004AA313 /* Roboto-Medium.ttf */,
+				CE6764872CA79EFB004AA313 /* Roboto-MediumItalic.ttf */,
+				CE6764842CA79EFB004AA313 /* Roboto-Regular.ttf */,
+				CE6764832CA79EFB004AA313 /* Roboto-Thin.ttf */,
+				CE67647D2CA79EFB004AA313 /* Roboto-ThinItalic.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		CE6764B02CA7A011004AA313 /* Custon */ = {
+			isa = PBXGroup;
+			children = (
+				CE6764B12CA7A026004AA313 /* CheckBox.swift */,
+				CE6764B62CA7A047004AA313 /* CustomPasswordField.swift */,
+				CE6764BA2CA7A055004AA313 /* CustomField.swift */,
+			);
+			path = Custon;
+			sourceTree = "<group>";
+		};
+		CE6764BE2CA7A174004AA313 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				CE6764BF2CA7A19C004AA313 /* UserViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		CE6764C32CA7A1FD004AA313 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CE6764C42CA7A212004AA313 /* UserModel.swift */,
+				CE6764C82CA7A23E004AA313 /* Repositories.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +325,14 @@
 			dependencies = (
 			);
 			name = Demo_8;
+			packageProductDependencies = (
+				CE6764CD2CA7A2C8004AA313 /* Auth */,
+				CE6764CF2CA7A2C8004AA313 /* Functions */,
+				CE6764D12CA7A2C8004AA313 /* PostgREST */,
+				CE6764D32CA7A2C8004AA313 /* Realtime */,
+				CE6764D52CA7A2C8004AA313 /* Storage */,
+				CE6764D72CA7A2C8004AA313 /* Supabase */,
+			);
 			productName = Demo_8;
 			productReference = CE6764372CA79DF7004AA313 /* Demo_8.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +405,9 @@
 				Base,
 			);
 			mainGroup = CE67642E2CA79DF7004AA313;
+			packageReferences = (
+				CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */,
+			);
 			productRefGroup = CE6764382CA79DF7004AA313 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -231,7 +424,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE6764942CA79EFB004AA313 /* Roboto-Bold.ttf in Resources */,
+				CE6764AC2CA79EFB004AA313 /* Roboto-MediumItalic.ttf in Resources */,
+				CE67648E2CA79EFB004AA313 /* Roboto-ThinItalic.ttf in Resources */,
+				CE67649D2CA79EFB004AA313 /* Roboto-LightItalic.ttf in Resources */,
+				CE6764912CA79EFB004AA313 /* Apache License.txt in Resources */,
+				CE6764A92CA79EFB004AA313 /* Roboto-Light.ttf in Resources */,
+				CE6764A62CA79EFB004AA313 /* Roboto-BoldItalic.ttf in Resources */,
+				CE6764A02CA79EFB004AA313 /* Roboto-Thin.ttf in Resources */,
+				CE67648B2CA79EFB004AA313 /* Roboto-Medium.ttf in Resources */,
+				CE6764A32CA79EFB004AA313 /* Roboto-Regular.ttf in Resources */,
 				CE6764422CA79DF9004AA313 /* Preview Assets.xcassets in Resources */,
+				CE67649A2CA79EFB004AA313 /* Roboto-Black.ttf in Resources */,
+				CE6764972CA79EFB004AA313 /* Roboto-Italic.ttf in Resources */,
+				CE6764882CA79EFB004AA313 /* Roboto-BlackItalic.ttf in Resources */,
 				CE67643F2CA79DF9004AA313 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,6 +446,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE67648F2CA79EFB004AA313 /* Roboto-ThinItalic.ttf in Resources */,
+				CE6764A72CA79EFB004AA313 /* Roboto-BoldItalic.ttf in Resources */,
+				CE6764AD2CA79EFB004AA313 /* Roboto-MediumItalic.ttf in Resources */,
+				CE6764AA2CA79EFB004AA313 /* Roboto-Light.ttf in Resources */,
+				CE6764982CA79EFB004AA313 /* Roboto-Italic.ttf in Resources */,
+				CE6764A42CA79EFB004AA313 /* Roboto-Regular.ttf in Resources */,
+				CE67649E2CA79EFB004AA313 /* Roboto-LightItalic.ttf in Resources */,
+				CE6764922CA79EFB004AA313 /* Apache License.txt in Resources */,
+				CE6764952CA79EFB004AA313 /* Roboto-Bold.ttf in Resources */,
+				CE67649B2CA79EFB004AA313 /* Roboto-Black.ttf in Resources */,
+				CE67648C2CA79EFB004AA313 /* Roboto-Medium.ttf in Resources */,
+				CE6764892CA79EFB004AA313 /* Roboto-BlackItalic.ttf in Resources */,
+				CE6764A12CA79EFB004AA313 /* Roboto-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +466,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE6764902CA79EFB004AA313 /* Roboto-ThinItalic.ttf in Resources */,
+				CE6764A82CA79EFB004AA313 /* Roboto-BoldItalic.ttf in Resources */,
+				CE6764AE2CA79EFB004AA313 /* Roboto-MediumItalic.ttf in Resources */,
+				CE6764AB2CA79EFB004AA313 /* Roboto-Light.ttf in Resources */,
+				CE6764992CA79EFB004AA313 /* Roboto-Italic.ttf in Resources */,
+				CE6764A52CA79EFB004AA313 /* Roboto-Regular.ttf in Resources */,
+				CE67649F2CA79EFB004AA313 /* Roboto-LightItalic.ttf in Resources */,
+				CE6764932CA79EFB004AA313 /* Apache License.txt in Resources */,
+				CE6764962CA79EFB004AA313 /* Roboto-Bold.ttf in Resources */,
+				CE67649C2CA79EFB004AA313 /* Roboto-Black.ttf in Resources */,
+				CE67648D2CA79EFB004AA313 /* Roboto-Medium.ttf in Resources */,
+				CE67648A2CA79EFB004AA313 /* Roboto-BlackItalic.ttf in Resources */,
+				CE6764A22CA79EFB004AA313 /* Roboto-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +489,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE6764B22CA7A026004AA313 /* CheckBox.swift in Sources */,
+				CE6764C02CA7A19C004AA313 /* UserViewModel.swift in Sources */,
+				CE6764732CA79EB6004AA313 /* OTPVerification.swift in Sources */,
 				CE67643D2CA79DF7004AA313 /* ContentView.swift in Sources */,
+				CE6764B72CA7A047004AA313 /* CustomPasswordField.swift in Sources */,
+				CE6764672CA79E55004AA313 /* SignUp.swift in Sources */,
+				CE6764BB2CA7A055004AA313 /* CustomField.swift in Sources */,
 				CE67643B2CA79DF7004AA313 /* Demo_8App.swift in Sources */,
+				CE67646B2CA79E81004AA313 /* LogIn.swift in Sources */,
+				CE6764C92CA7A23E004AA313 /* Repositories.swift in Sources */,
+				CE6764772CA79ECC004AA313 /* NewPassword.swift in Sources */,
+				CE6764C52CA7A212004AA313 /* UserModel.swift in Sources */,
+				CE67646F2CA79EA1004AA313 /* ForgotPassword.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +510,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE67644C2CA79DF9004AA313 /* Demo_8Tests.swift in Sources */,
+				CE6764782CA79ECC004AA313 /* NewPassword.swift in Sources */,
+				CE67646C2CA79E81004AA313 /* LogIn.swift in Sources */,
+				CE6764C12CA7A19C004AA313 /* UserViewModel.swift in Sources */,
+				CE6764BC2CA7A055004AA313 /* CustomField.swift in Sources */,
+				CE6764CA2CA7A23E004AA313 /* Repositories.swift in Sources */,
+				CE6764B32CA7A026004AA313 /* CheckBox.swift in Sources */,
+				CE6764682CA79E55004AA313 /* SignUp.swift in Sources */,
+				CE6764702CA79EA1004AA313 /* ForgotPassword.swift in Sources */,
+				CE6764B82CA7A047004AA313 /* CustomPasswordField.swift in Sources */,
+				CE6764742CA79EB6004AA313 /* OTPVerification.swift in Sources */,
+				CE6764C62CA7A212004AA313 /* UserModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +528,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE6764B42CA7A026004AA313 /* CheckBox.swift in Sources */,
+				CE6764C22CA7A19C004AA313 /* UserViewModel.swift in Sources */,
+				CE6764752CA79EB6004AA313 /* OTPVerification.swift in Sources */,
 				CE6764582CA79DF9004AA313 /* Demo_8UITestsLaunchTests.swift in Sources */,
+				CE6764B92CA7A047004AA313 /* CustomPasswordField.swift in Sources */,
+				CE6764692CA79E55004AA313 /* SignUp.swift in Sources */,
+				CE6764BD2CA7A055004AA313 /* CustomField.swift in Sources */,
 				CE6764562CA79DF9004AA313 /* Demo_8UITests.swift in Sources */,
+				CE67646D2CA79E81004AA313 /* LogIn.swift in Sources */,
+				CE6764CB2CA7A23E004AA313 /* Repositories.swift in Sources */,
+				CE6764792CA79ECC004AA313 /* NewPassword.swift in Sources */,
+				CE6764C72CA7A212004AA313 /* UserModel.swift in Sources */,
+				CE6764712CA79EA1004AA313 /* ForgotPassword.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +689,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Demo_8/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Demo-8-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -452,6 +718,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Demo_8/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Demo-8-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -582,6 +849,50 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/supabase/supabase-swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CE6764CD2CA7A2C8004AA313 /* Auth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Auth;
+		};
+		CE6764CF2CA7A2C8004AA313 /* Functions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Functions;
+		};
+		CE6764D12CA7A2C8004AA313 /* PostgREST */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = PostgREST;
+		};
+		CE6764D32CA7A2C8004AA313 /* Realtime */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Realtime;
+		};
+		CE6764D52CA7A2C8004AA313 /* Storage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Storage;
+		};
+		CE6764D72CA7A2C8004AA313 /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE6764CC2CA7A2C8004AA313 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CE67642F2CA79DF7004AA313 /* Project object */;
 }
