@@ -89,7 +89,7 @@ struct SignUp: View {
                 .padding(5)
                 
                 HStack{
-                    NavigationLink(destination: LogIn(), isActive: $isShowingDetailView)
+                    NavigationLink(destination: LogIn(), isActive: $userViewModel.isNavigate)
                     { EmptyView() }
                     Button(action: {userViewModel.signUp()
                         //                        if $userViewModel.user.name != "" {

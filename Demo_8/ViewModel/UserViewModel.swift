@@ -26,7 +26,7 @@ class UserViewModel: ObservableObject {
         
         func signUp() {
             
-       //     if password == confirmPassword {
+          //  if (password && confirmPassword && user.name && user.phone{
                 
                 Task {
                     do {

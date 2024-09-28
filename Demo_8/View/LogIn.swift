@@ -70,7 +70,7 @@ struct LogIn: View {
                 .padding(.leading, 5)
                 
                 HStack{
-                    NavigationLink(destination: ContentView(), isActive: $isShowingDetailView)
+                    NavigationLink(destination: ContentView(), isActive: $userViewModel.isNavigate)
                     { EmptyView() }
                     Button(action: {
                         userViewModel.signIn()
